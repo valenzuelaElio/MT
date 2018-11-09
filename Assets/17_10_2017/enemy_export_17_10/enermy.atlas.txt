@@ -1,0 +1,20 @@
+
+enermy.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 49
+  size: 330, 338
+  orig: 330, 338
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

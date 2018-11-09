@@ -1,0 +1,41 @@
+
+mathtank.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_body
+  rotate: false
+  xy: 2, 38
+  size: 530, 364
+  orig: 530, 364
+  offset: 0, 0
+  index: -1
+main_line
+  rotate: false
+  xy: 2, 2
+  size: 203, 34
+  orig: 203, 34
+  offset: 0, 0
+  index: -1
+main_wheel_01
+  rotate: false
+  xy: 534, 251
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+main_wheel_02
+  rotate: false
+  xy: 534, 98
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+main_wheel_03
+  rotate: false
+  xy: 687, 251
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
